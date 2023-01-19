@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button to Action</string>
+
+    <string name="channel_name">Notifications action</string>
+</resources>
